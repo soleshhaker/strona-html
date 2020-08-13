@@ -280,6 +280,11 @@ cursor: pointer;
 background: linear-gradient(to bottom, rgba(201,2,124,1) 0%,rgba(255,93,177,1) 100%);
 }
 
+.button2:hover{
+cursor: pointer;
+background: linear-gradient(to bottom, rgba(201,2,124,1) 0%,rgba(255,93,177,1) 100%);
+}
+
 
 #footer{
 background-color: white;
